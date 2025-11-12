@@ -1,0 +1,11 @@
+# Ignore data
+/Assignment-1/data/
+/Assignment-2/data/
+/Assignment-3/data/
+/Assignment-4/data/
+
+# Ignore pycache
+/Assignment-1/__pycache__/
+/Assignment-2/__pycache__/
+/Assignment-3/__pycache__/
+/Assignment-4/__pycache__/
